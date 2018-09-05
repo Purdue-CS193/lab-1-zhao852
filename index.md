@@ -18,6 +18,7 @@ Syntax highlighted code block
 - CS193 is my favorite class
 - it's not early in the morning
 - it's a useful class
+- the room is nice and cool
 
 1. Numbered
 2. List
