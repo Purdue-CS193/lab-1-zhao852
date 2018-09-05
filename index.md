@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# Edward Zhao's first CS193 Lab
+
+- CS193 is my favorite class
+- it's not early in the morning
+- it's a useful class
+- the room is nice and cool
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,14 +16,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Edward Zhao's first CS193 Lab
+# Header 1
 ## Header 2
 ### Header 3
 
-- CS193 is my favorite class
-- it's not early in the morning
-- it's a useful class
-- the room is nice and cool
 
 1. Numbered
 2. List
